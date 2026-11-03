@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(rgba(8, 8, 8, 0.808), rgba(0, 0, 0, 0.6)), 
+    url('/img/back.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+img{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(255, 253, 253);
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    color: rgb(196, 196, 196);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
